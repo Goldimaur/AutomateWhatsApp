@@ -1,4 +1,4 @@
-#main.py
-#AutomateWhatsApp
-#OrCode.py
-#Student Verification project with QrCode
+#main.py <br/>
+#AutomateWhatsApp <br/>
+#OrCode.py <br/>
+#Student Verification project with QrCode <br/>
